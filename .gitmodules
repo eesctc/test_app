@@ -1,0 +1,6 @@
+[submodule "test_lib_a"]
+	path = test_lib_a
+	url = https://github.com/eesctc/test_lib_a.git
+[submodule "test_lib_b"]
+	path = test_lib_b
+	url = https://github.com/eesctc/test_lib_b.git
